@@ -1,0 +1,6 @@
+id	data	x	y	z	theta	size	parent	uniqueCode
+1	Images/Rimpa Design Japan/thumb_c_07386.jpg,Metal	-0.9100002	1.5	-7.19	0,15.65542,0	0.8	13	33
+2	Images/Rimpa Design Japan/thumb_c_07387.jpg,MetalGold	-0.61	1.5	6.860003	0,15.18101,0	0.8	13	34
+6	Images/Rimpa Design Japan/thumb_c_07404.jpg,Wooden_thin2	-0.2199977	0.5	-2.009994	0,21.83643,0	0.8	17	47
+7	Images/Rimpa Design Japan/thumb_c_07421.jpg,Wooden_thin2	0	0.5	8.469987	0,21.82271,0	0.8	17	48
+10	Images/Rimpa Design Japan/juyo3.png,none(caption)	-4.25	1.5	-12.15	0,16.60423,0	1	17	72

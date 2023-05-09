@@ -1,0 +1,30 @@
+ID	data	wallCenter	wallRight	wallUp	wallFront	x	y	z	size	frameTitle	parent	uniqueCode
+2	./Images/Greeting/Greeting_jp.png	67.5,37.5,0.5	-1,0,0	0,1,0	0,0,-1	46.19458	-9.239997	0.2	1	none(caption)	-1:-1	1
+3	./Images/Greeting/Greeting.png	67.5,37.5,0.5	-1,0,0	0,1,0	0,0,-1	34.66964	-9.523484	0.2	1	none(caption)	-1:-1	2
+4	./Images/Rimpa Design Japan/001ent.png	67.5,37.5,0.5	-1,0,0	0,1,0	0,0,-1	1.27252	-10.7205	0.2	5	none(caption)	-1:-1	3
+13	./Images/Rimpa Design Japan/03.jpg	-45.8576,31.84,54.6148	0.245308,0,0.9694452	0,1,0	-0.9694452,0,0.245308	37.65481	-8.840495	0.2	10	none(caption)	7:1	17
+14	./Images/Rimpa Design Japan/thumb_c_10115.jpg	-51.67427,31.84,56.08665	-0.245308,0,-0.9694452	0,1,0	0.9694452,0,-0.245308	-27.36682	-12.1795	0.2	1.7	none(caption)	7:3	18
+15	./Images/Rimpa Design Japan/thumb_c_10153.jpg	-37.27344,31.84,112.9973	-0.245308,0,-0.9694452	0,1,0	0.9694452,0,-0.245308	-23.50087	-11.707	0.2	1.27	none(caption)	6:3	19
+16	./Images/Rimpa Design Japan/04.jpg	0,37.5,237	1,0,0	0,1,0	0,0,1	-71.79797	-10.78349	0.2	8	none(caption)	-1:-1	20
+21	./Images/Rimpa Design Japan/f_05.jpg	-102.9642,23.88,51.10648	0,0,1	0,1,0	-1,0,0	0.7719232	-2.928001	0.2	6	Wooden_thin	9:3	28
+22	./Images/Rimpa Design Japan/f_06.jpg	-102.9864,23.88,132.787	0,0,0.9999986	0,1,0	-0.9999986,0,0	0.03823716	-3.180001	0.2	6	Wooden_thin	10:3	29
+23	./Images/Rimpa Design Japan/002_byobu.png	95.30009,31.84,36.86017	-0.5090413,0,-0.8607421	0,1,0	0.8607421,0,-0.5090413	0.4298397	-11.89599	0.2	4	Wooden_thin2	1:3	35
+24	./Images/Rimpa Design Japan/thumb_c_07398.jpg	-67.5,37.5,0.5	-1,0,0	0,1,0	0,0,-1	-34.84921	-10.689	0.2	0.6	Wooden_thin	-1:-1	38
+25	./Images/Rimpa Design Japan/thumb_c_07399.jpg	-67.5,37.5,0.5	-1,0,0	0,1,0	0,0,-1	-7.109777	-10.5	0.2	0.6	Wooden_thin	-1:-1	39
+29	./Images/Rimpa Design Japan/01.jpg	91.29884,28.656,143.3945	-0.1659083,0,0.9861412	0,1,0	0.9861412,0,0.1659083	7.072803	-4.0815	0.2	10	none(caption)	14:3	44
+30	./Images/Rimpa Design Japan/hakubai.png	117,37.5,120	0,0,-1	0,1,0	1,0,0	51.13261	-13.587	0.2	3	none(caption)	-1:-1	49
+31	./Images/Rimpa Design Japan/shirakiku.png	-23.5245,28.656,200.6816	0,0,-1	0,1,0	-1,0,0	-0.06542099	-4.176001	0.2	1.4	none(caption)	18:1	51
+32	./Images/Rimpa Design Japan/kikazu.png	-31.5245,28.656,200.6816	0,0,1	0,1,0	1,0,0	0.4745002	-4.113	0.2	1.4	none(caption)	18:3	52
+33	./Images/Rimpa Design Japan/波濤図屏風.jpg	-117,60,120	0,0,1	0,1,0	-1,0,0	8.037255	11.16298	0.2	20	none(caption)	-1:-1	53
+34	./Images/Rimpa Design Japan/tawaraya.png	-45.85759,31.84,54.6148	0.245308,0,0.9694452	0,1,0	-0.9694452,0,0.245308	-20.42377	-4.839998	0.2	1.4	none(caption)	7:1	54
+35	./Images/Rimpa Design Japan/plum.png	-51.67427,31.84,56.08664	-0.245308,0,-0.9694452	0,1,0	0.9694452,0,-0.245308	-0.09531209	-5.091997	0.2	3	none(caption)	7:3	55
+36	./Images/Rimpa Design Japan/phoenix.png	-37.27344,31.84,112.9973	-0.245308,0,-0.9694452	0,1,0	0.9694452,0,-0.245308	1.216588	-5.501497	0.2	3	none(caption)	6:3	56
+37	./Images/Rimpa Design Japan/hujin.png	-117,60,120	0,0,1	0,1,0	-1,0,0	-28.05458	-41.50499	0.2	2	none(caption)	-1:-1	57
+39	./Images/Rimpa Design Japan/hasseki.png	-117,60,120	0,0,1	0,1,0	-1,0,0	-28.17918	-28.52702	0.2	2	none(caption)	-1:-1	59
+40	./Images/Rimpa Design Japan/gonantoka.png	-117,60,120	0,0,1	0,1,0	-1,0,0	63.70962	-33.59848	0.2	2	none(caption)	-1:-1	60
+41	./Images/Rimpa Design Japan/gonantok2.png	-117,60,120	0,0,1	0,1,0	-1,0,0	86.89676	-34.22849	0.2	1.7	none(caption)	-1:-1	61
+42	./Images/Rimpa Design Japan/juyo1.png	-67.5,60,0.5	-1,0,0	0,1,0	0,0,-1	-44.21137	-33.4095	0.2	1	none(caption)	-1:-1	62
+43	./Images/Rimpa Design Japan/juyo2.png	-67.5,60,0.5	-1,0,0	0,1,0	0,0,-1	-16.95212	-32.9685	0.2	1	none(caption)	-1:-1	63
+45	./Images/Rimpa Design Japan/00.jpg	24.31201,28.656,205.4801	0.9961943,0,-0.08716094	0,1,0	0.08716094,0,0.9961943	5.866253	-4.175999	0.2	10	none(caption)	21:1	68
+47	./Images/Greeting/fujibi-V2ln41vO2wk-KKK3ORnm82o_med.jpg	-43.34326,19.104,-17.22797	0.9900476,0,0.1407341	0,1,0	-0.1407341,0,0.9900476	-0.09306381	-5.145002	0.2	5	none(caption)	24:3	74
+48	./Images/Rimpa Design Japan/juyo4.png	53.28172,28.656,54.93312	0,0,-0.9999863	0,1,0	0.9999863,0,0	-0.0500187	-2.0655	0.2	1.4	none(caption)	25:3	77

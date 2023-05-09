@@ -1,0 +1,2 @@
+#root=https://virtualion.github.io/tokyo03/
+#prj=rinpa2
